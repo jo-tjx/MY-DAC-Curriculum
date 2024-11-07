@@ -12,12 +12,18 @@
 
 --Answer
 
+SELECT *
+FROM humanresources.employee
+ORDER BY jobtitle ASC;
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 -- Q2: From the following table person.person write a query in SQL to return all rows and a subset of the columns (firstName, lastName, businessentityid) from the person table in the AdventureWorks database. 
 -- The third column heading is renamed to employee_id. Arranged the output in ascending order by lastname.
 
 --Answer
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
